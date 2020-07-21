@@ -1,0 +1,3 @@
+[submodule "crispy"]
+	path = crispy
+	url = https://github.com/slerpyyy/crispy.git
